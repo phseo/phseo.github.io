@@ -122,17 +122,12 @@ ul.downloads {
 }
 
 .downloads li {
-  width:220px;
-  border-right:1px solid #e0e0e0;
+  width:230px;
   height:30px;
 }
 
 .downloads li:first-child a {
-  border-radius:5px 0 0 5px;
-}
-
-.downloads li:last-child a {
-  border-radius:0 5px 5px 0;
+  border-radius:5px 5px 5px 5px;
 }
 
 .downloads a {
