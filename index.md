@@ -10,7 +10,7 @@ I am a research scientist at Google working with [Cordelia Schmid](https://thoth
 * **B.S.**  [Computer Engineering](http://portal.changwon.ac.kr/home/ce){:target="_blank"}, [Changwon National University](http://eng.changwon.ac.kr/eng/main/index.php){:target="_blank"} (Mar. 2006 - Feb. 2011)
 
 # Work Experiences and Academic Services
-* I have been serving as a reviewer for CVPR, NeurIPS, ICLR, ICML, ICCV and ACL.
+* **Regular Reviewer** for CVPR, NeurIPS, ICLR, ICML, ICCV and ACL.
 * **Research Scientist**, Google, France (Mar. 2020 - )
 * **Research Intern**, Facebook, USA (Sep. 2019 - Jan. 2020)
 * **Research Intern**, Google, USA (May. 2019 - Aug. 2019)
