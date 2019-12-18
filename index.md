@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a research scientist at Google working with [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/) on research problems involving both vision and language. I completed my Ph.D. in 2020 under the supervision of [Bohyung Han](https://cv.snu.ac.kr/index.php/~bhhan/) and [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/) at [POSTECH](http://www.postech.ac.kr/eng/). During my Ph.D., I interned at Disney Research, Google and Facebook working with [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/), [Jack Sim](https://scholar.google.com/citations?hl=ko&user=UhnT9e4AAAAJ&view_op=list_works&sortby=pubdate), [Radu Soricut](https://scholar.google.com/citations?hl=en&user=NAzD9mgAAAAJ&view_op=list_works&sortby=pubdate) and [Peter Vajda](https://sites.google.com/site/vajdap).
+I am a research scientist at Google working with [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/){:target="_blank"} on research problems involving both vision and language. I completed my Ph.D. in 2020 under the supervision of [Bohyung Han](https://cv.snu.ac.kr/index.php/~bhhan/) and [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/) at [POSTECH](http://www.postech.ac.kr/eng/). During my Ph.D., I interned at Disney Research, Google and Facebook working with [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/), [Jack Sim](https://scholar.google.com/citations?hl=ko&user=UhnT9e4AAAAJ&view_op=list_works&sortby=pubdate), [Radu Soricut](https://scholar.google.com/citations?hl=en&user=NAzD9mgAAAAJ&view_op=list_works&sortby=pubdate) and [Peter Vajda](https://sites.google.com/site/vajdap).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
