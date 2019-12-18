@@ -18,6 +18,7 @@
           <img class="logo" src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
         
+        <div class="info">
         <p><a href="{{ "/" | absolute_url }}" style="font-size:24px; font-weight:bold">{{ site.title | default: site.github.repository_name }}</a> <br/>
           <strong>Research Scientist, Google</strong></p>
         
@@ -36,6 +37,7 @@
           <li><a href="{{ site.google_scholar }}">Google Scholar Page</a></li>
         </ul>
         {% endif %}
+        </div>
       </header>
       <section>
 
