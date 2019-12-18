@@ -104,10 +104,6 @@ img {
   max-width:100%;
 }
 
-img.logo {
-  max-width:300px;
-}
-
 header {
   width:230px;
   float:left;
@@ -232,6 +228,10 @@ footer {
     position:absolute;
     right:50px;
     top:52px;
+  }
+
+  img.logo {
+    max-width:300px;
   }
 }
 
