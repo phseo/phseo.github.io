@@ -9,6 +9,16 @@ I am a research scientist at Google working with [Cordelia Schmid](https://thoth
 * **M.S.**  [Computer Science and Engineering](https://ecse.postech.ac.kr/){:target="_blank"}, [POSTECH](http://www.postech.ac.kr/eng/){:target="_blank"} (Mar. 2011 - Feb. 2013)
 * **B.S.**  [Computer Engineering](http://portal.changwon.ac.kr/home/ce){:target="_blank"}, [Changwon National University](http://eng.changwon.ac.kr/eng/main/index.php){:target="_blank"} (Mar. 2006 - Feb. 2011)
 
+# Work Experiences and Academic Services
+* I have been serving as a reviewer for CVPR, NeurIPS, ICLR, ICML, ICCV and ACL.
+* **Research Scientist**, Google, France (Mar. 2020 - )
+* **Research Intern**, Facebook, USA (Sep. 2019 - Jan. 2020)
+* **Research Intern**, Google, USA (May. 2019 - Aug. 2019)
+* **Technical Committee Member**, Conceptual Captions Challenge, CVPR 2019
+* **Tech Intern**, Google, USA (Jun. 2017 - Dec. 2017)
+* **Lab Associate**, Disney Research Pittsburgh, USA (Feb. 2017 - May. 2017)
+* **Lecturer**, Dept. of Information Technology, [Mongolia International University](http://www.miu.edu.mn/){:target="_blank"} (Aug. 2013 - Jan. 2015)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
