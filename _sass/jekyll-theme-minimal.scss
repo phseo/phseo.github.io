@@ -209,10 +209,6 @@ footer {
     width:auto;
   }
 
-  header {
-    padding-right:250px;
-  }
-
   section {
     border:1px solid #e5e5e5;
     border-width:1px 0;
@@ -232,6 +228,7 @@ footer {
 
   img.logo {
     max-width:300px;
+    float:left;
   }
 }
 
