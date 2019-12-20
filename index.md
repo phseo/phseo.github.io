@@ -26,6 +26,14 @@ I am a research scientist at Google working with [Cordelia Schmid](https://thoth
 Paul Hongsuck Seo, Piyush Sharma, Tomer Levinboim, Bohyung Han, Radu Soricut <br />
 In AAAI 2020
 
+# TEST!!!
+<h1> Test!! </h1>
+<ul>
+{% for pub in site.publications %}
+<li>{{pub.title}} <br /> {{pub.authors}} <br /> {{pub.conf}}</li>
+{% endfor %}
+</ul>
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
