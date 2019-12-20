@@ -25,7 +25,7 @@ I am a research scientist at Google working with [Cordelia Schmid](https://thoth
 <ul>
 {% for pub in site.publications %}
   <li>
-    <a href="{{pub.url}}">{{pub.title}}</a> <br />
+    <a href="{{pub.url}}" target="_blank">{{pub.title}}</a> <br />
     {% if pub.authors contains "*Paul Hongsuck Seo" %}
     {{pub.authors | replace: "*Paul Hongsuck Seo", "<strong>*Paul Hongsuck Seo</strong>"}} <br />
     {% elsif pub.authors contains "Paul Hongsuck Seo" %}
