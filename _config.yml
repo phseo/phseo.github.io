@@ -7,7 +7,7 @@ theme: jekyll-theme-minimal
 google_scholar: https://scholar.google.com/citations?user=Tp7U8_UAAAAJ&hl=en
 
 publications:
-  - title: MarioQA: Answering Questions by Watching Gameplay Videos
+  - title: AA
     url: http://openaccess.thecvf.com/content_iccv_2017/html/Mun_MarioQA_Answering_Questions_ICCV_2017_paper.html
     authors: *Jonghwan Mun, *Paul Hongsuck Seo, Ilchae Jung, Bohyung Han (* equal contribution)
     conf: ICCV 2017
