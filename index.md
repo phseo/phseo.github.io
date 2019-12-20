@@ -22,17 +22,13 @@ I am a research scientist at Google working with [Cordelia Schmid](https://thoth
 * **Technical Committee Member**, Conceptual Captions Challenge, CVPR 2019
 
 # Publications
-* [Reinforcing an Image Caption Generator by Human Feedback](https://arxiv.org/pdf/1911.09753.pdf){:target="_blank"} <br />
-Paul Hongsuck Seo, Piyush Sharma, Tomer Levinboim, Bohyung Han, Radu Soricut <br />
-In AAAI 2020
-
-# TEST!!!
-<h1> Test!! </h1>
 <ul>
 {% for pub in site.publications %}
   <li>
     <a href="{{pub.url}}">{{pub.title}}</a> <br />
-    {% if pub.authors contains "Paul Hongsuck Seo" %}
+    {% if pub.authors contains "*Paul Hongsuck Seo" %}
+    {{pub.authors | replace: "*Paul Hongsuck Seo", "<strong>*Paul Hongsuck Seo</strong>"}} <br />
+    {% elsif pub.authors contains "Paul Hongsuck Seo" %}
     {{pub.authors | replace: "Paul Hongsuck Seo", "<strong>Paul Hongsuck Seo</strong>"}} <br />
     {% elsif pub.authors contains "Hongsuck Seo" %}
     {{pub.authors | replace: "Hongsuck Seo", "<strong>Hongsuck Seo</strong>"}} <br />
