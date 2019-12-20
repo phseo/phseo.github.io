@@ -34,6 +34,12 @@
       <section>
 
       {{ content }}
+        
+      <ul>
+      {% for pub in site.publications %}
+        <li>{{item.title}} <br /> {{item.authors}} <br /> {{item.conf}}</li>
+      {% endfor %}
+        </ul>
 
       </section>
       <footer>
