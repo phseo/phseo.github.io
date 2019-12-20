@@ -21,6 +21,11 @@ I am a research scientist at Google working with [Cordelia Schmid](https://thoth
 * **Regular Program Committee Member (Reviewer)** in CVPR, NeurIPS, ICLR, ICML, ICCV and ACL.
 * **Technical Committee Member**, Conceptual Captions Challenge, CVPR 2019
 
+# Publications
+* [Reinforcing an Image Caption Generator by Human Feedback](https://arxiv.org/pdf/1911.09753.pdf){:target="_blank"}
+Paul Hongsuck Seo, Piyush Sharma, Tomer Levinboim, Bohyung Han, Radu Soricut
+In AAAI 2020
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
