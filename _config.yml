@@ -6,6 +6,16 @@ google_analytics:
 theme: jekyll-theme-minimal
 google_scholar: https://scholar.google.com/citations?user=Tp7U8_UAAAAJ&hl=en
 
-test: ["A",
-       "B",
-       "C"]
+publications:
+  - title: abc
+    authors: test
+    conf: ccvvas
+  - title: abc1
+    authors: test1
+    conf: ccvvas1
+  - title: abc2
+    authors: test2
+    conf: ccvvas2
+  - title: abc3
+    authors: test3
+    conf: ccvvas3
