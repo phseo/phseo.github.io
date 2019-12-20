@@ -30,7 +30,7 @@ In AAAI 2020
 <h1> Test!! </h1>
 <ul>
 {% for pub in site.publications %}
-<li>{{pub.title}} <br /> {{pub.authors}} <br /> {{pub.conf}}</li>
+<li>[{{pub.title}}](#){:target="_blank"} <br /> {{pub.authors}} <br /> {{pub.conf}}</li>
 {% endfor %}
 </ul>
 
