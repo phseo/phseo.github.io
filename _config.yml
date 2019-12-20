@@ -5,3 +5,7 @@ logo: /assets/img/profile.png
 google_analytics:
 theme: jekyll-theme-minimal
 google_scholar: https://scholar.google.com/citations?user=Tp7U8_UAAAAJ&hl=en
+
+test: ["A",
+       "B",
+       "C"]
