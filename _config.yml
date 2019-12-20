@@ -25,7 +25,7 @@ publications:
     url: https://arxiv.org/abs/1809.10877
     authors: "*Seonguk Seo, *Paul Hongsuck Seo, Bohyung Han (* equal contribution)"
     conf: CVPR 2019
-  - title: CPlaNet: Enhancing Image Geolocalization by Combinatorial Partitioning of Maps
+  - title: "CPlaNet: Enhancing Image Geolocalization by Combinatorial Partitioning of Maps"
     url: https://arxiv.org/abs/1808.02130
     authors: Paul Hongsuck Seo, Tobias Weyand, Jack Sim, Bohyung Han
     conf: ECCV 2018
