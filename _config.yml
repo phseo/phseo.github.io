@@ -7,17 +7,53 @@ theme: jekyll-theme-minimal
 google_scholar: https://scholar.google.com/citations?user=Tp7U8_UAAAAJ&hl=en
 
 publications:
+  - title: Reinforcing an Image Caption Generator by Human Feedback
+    url: https://arxiv.org/pdf/1911.09753.pdf
+    authors: Paul Hongsuck Seo, Piyush Sharma, Tomer Levinboim, Bohyung Han, Radu Soricut
+    conf: AAAI 2020
+    oral: true
+  - title: Combinatorial Inference against Label Noise
+    url: https://papers.nips.cc/paper/8401-combinatorial-inference-against-label-noise.pdf
+    authors: Paul Hongsuck Seo, Geeho Kim, Bohyung Han
+    conf: NeurIPS 2019
+  - title: Regularizing Neural Networks via Stochastic Branch Layers
+    url: https://arxiv.org/abs/1910.01467
+    authors: "*Wonpyo Park, *Paul Hongsuck Seo, Bohyung Han, Minsu Cho (* equal contribution)"
+    conf: ACML 2019
+    oral: true
+  - title: Learning for Single-Shot Confidence Calibration in Deep Neural Networks through Stochastic Inferences
+    url: https://arxiv.org/abs/1809.10877
+    authors: "*Seonguk Seo, *Paul Hongsuck Seo, Bohyung Han (* equal contribution)"
+    conf: CVPR 2019
+  - title: CPlaNet: Enhancing Image Geolocalization by Combinatorial Partitioning of Maps
+    url: https://arxiv.org/abs/1808.02130
+    authors: Paul Hongsuck Seo, Tobias Weyand, Jack Sim, Bohyung Han
+    conf: ECCV 2018
+  - title: Attentive Semantic Alignment with Offset-Aware Correlation Kernels
+    url: https://arxiv.org/abs/1808.02128
+    authors: Paul Hongsuck Seo, Jongmin Lee, Deunsol Jung, Bohyung Han, Minsu Cho
+    conf: ECCV 2018
+    project_page: http://cvlab.postech.ac.kr/research/A2Net/
+  - title: Progressive Attention Networks for Visual Attribute Prediction
+    url: https://arxiv.org/abs/1606.02393
+    authors: Paul Hongsuck Seo, Zhe Lin, Scott Cohen, Xiaohui Shen, Bohyung Han
+    conf: BMVC 2018
+  - title: Visual Reference Resolution using Attention Memory for Visual Dialog
+    url: https://papers.nips.cc/paper/6962-visual-reference-resolution-using-attention-memory-for-visual-dialog
+    authors: Paul Hongsuck Seo, Andreas Lehrmann, Bohyung Han, Leonid Sigal
+    conf: NIPS 2017
+    project_page: http://cvlab.postech.ac.kr/research/attmem/
   - title: "MarioQA: Answering Questions by Watching Gameplay Videos"
-    url: https://openaccess.thecvf.com/content_iccv_2017/html/Mun_MarioQA_Answering_Questions_ICCV_2017_paper.html
+    url: http://openaccess.thecvf.com/content_iccv_2017/html/Mun_MarioQA_Answering_Questions_ICCV_2017_paper.html
     authors: "*Jonghwan Mun, *Paul Hongsuck Seo, Ilchae Jung, Bohyung Han (* equal contribution)"
     conf: ICCV 2017
-    project_page: https://cvlab.postech.ac.kr/research/MarioQA/
+    project_page: http://cvlab.postech.ac.kr/research/MarioQA/
   - title: Image Question Answering using Convolutional Neural Network with Dynamic Parameter Prediction
     url: https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Noh_Image_Question_Answering_CVPR_2016_paper.pdf
     authors: Hyeonwoo Noh, Paul Hongsuck Seo, Bohyung Han
     conf: CVPR 2016
     oral: true
-    project_page: https://cvlab.postech.ac.kr/research/dppnet/
+    project_page: http://cvlab.postech.ac.kr/research/dppnet/
   - title: A Corpus for a Multimodal Dialog System for Presentation Controls
     url: #
     authors: Paul Hongsuck Seo, Gary Geunbae Lee
