@@ -30,7 +30,15 @@ In AAAI 2020
 <h1> Test!! </h1>
 <ul>
 {% for pub in site.publications %}
-<li>[{{pub.title}}](#){:target="_blank"} <br /> {{pub.authors}} <br /> {{pub.conf}}</li>
+  <li>
+    <a href="{{pub.url}}">{{pub.title}}</a> <br />
+    {% if pub.authors contains "Paul Hongsuck Seo" %}
+    {{pub.authors | replace: "Paul Hongsuck Seo", "<strong>Paul Hongsuck Seo</strong>"}} <br />
+    {% elsif pub.authors contains "Hongsuck Seo" %}
+    {{pub.authors | replace: "Hongsuck Seo", "<strong>Hongsuck Seo</strong>"}} <br />
+    {% endif %}
+    In <i>{{pub.conf}}</i>
+  </li>
 {% endfor %}
 </ul>
 
