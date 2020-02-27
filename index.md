@@ -8,9 +8,10 @@ I am a research scientist at Google working with [Cordelia Schmid](https://thoth
 # Education
 * **Ph.D.**  [Computer Science and Engineering](https://ecse.postech.ac.kr/){:target="_blank"}, [POSTECH](http://www.postech.ac.kr/eng/){:target="_blank"} (Sep. 2016 - Feb. 2020)
   * <i>Combinatorial Classification: Learning by Combination of Classifiers on Heterogeneous Output Spaces</i> <br />
-  Advisors: Bohyung Han and Minsu Cho <br />
-  Committee: Suha Kwak, Seungyong Lee and Jinwoo Shin <br />
+  Advisors: Bohyung Han and Minsu Cho; Committee: Suha Kwak, Seungyong Lee and Jinwoo Shin
 * **M.S.**  [Computer Science and Engineering](https://ecse.postech.ac.kr/){:target="_blank"}, [POSTECH](http://www.postech.ac.kr/eng/){:target="_blank"} (Mar. 2011 - Feb. 2013)
+  * <i>Multiple User Intent Understanding for Spoken Dialog System</i> <br />
+  Advisor: Gary Geunbae Lee; Committee: Jonghyeok Lee and Hwanjo Yu
 * **B.S.**  [Computer Engineering](http://portal.changwon.ac.kr/home/ce){:target="_blank"}, [Changwon National University](http://eng.changwon.ac.kr/eng/main/index.php){:target="_blank"} (Mar. 2006 - Feb. 2011)
 
 * * *
