@@ -7,7 +7,7 @@ I am a research scientist at Google working with [Cordelia Schmid](https://thoth
 * * *
 # Education
 * **Ph.D.**  [Computer Science and Engineering](https://ecse.postech.ac.kr/){:target="_blank"}, [POSTECH](http://www.postech.ac.kr/eng/){:target="_blank"} (Sep. 2016 - Feb. 2020)
-  * **Combinatorial Classification: Learning by Combination of Classifiers on Heterogeneous Output Spaces**, Sep. 2019 <br />
+  * <i>Combinatorial Classification: Learning by Combination of Classifiers on Heterogeneous Output Spaces</i> <br />
   Advisors: Bohyung Han and Minsu Cho <br />
   Committee: Suha Kwak, Seungyong Lee and Jinwoo Shin <br />
 * **M.S.**  [Computer Science and Engineering](https://ecse.postech.ac.kr/){:target="_blank"}, [POSTECH](http://www.postech.ac.kr/eng/){:target="_blank"} (Mar. 2011 - Feb. 2013)
