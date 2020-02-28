@@ -24,6 +24,17 @@ I am a research scientist at Google working with [Cordelia Schmid](https://thoth
 * **Lecturer**, Dept. of Information Technology, [Mongolia International University](http://www.miu.edu.mn/){:target="_blank"} (Aug. 2013 - Jan. 2015)
 
 * * *
+# Honors and Awards
+* **Best Ph.D. Award (Engineering)**, POSTECH (2020)
+* **CVPR 2019 Doctoral Consortium** (2019)
+* **Naver Ph.D. Fellowship** (2017)
+* **Best Team Project Award**, SUNY Korea Hot Topics in Computer Science Workshop (2015)
+* **Academic Scholarship**, Kyobo Foundation for Education and Culture (2006 - 2011)
+* **Academic Scholarship**, Bakyeop Foundation (2007 - 2008)
+* **Grand Prize**, CNU Venture Item Contest (2007)
+*	**First Runner Up**, CNU Programming Contest (2006)
+
+* * *
 # Academic Services
 * **Regular Program Committee Member (Reviewer)** in CVPR, NeurIPS, ICLR, ICML, ICCV and ACL.
 * **Technical Committee Member**, Conceptual Captions Challenge, CVPR 2019
