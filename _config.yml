@@ -8,7 +8,7 @@ theme: jekyll-theme-minimal
 google_scholar: https://scholar.google.com/citations?user=Tp7U8_UAAAAJ&hl=en
 
 publications:
-  - title: Look Before you Speak: Visually Contextualized Utterances
+  - title: "Look Before you Speak: Visually Contextualized Utterances"
     url: https://arxiv.org/abs/2012.05710
     authors: Paul Hongsuck Seo, Arsha Nagrani, Cordelia Schmid
     conf: arXiv
