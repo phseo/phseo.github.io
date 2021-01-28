@@ -115,6 +115,18 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+div.oral {
+  line-height: 1;
+  font-size: 12px;
+  color: #FFFFFF;
+  background-color: #9dab2e;
+  text-align: center;
+  display: inline-block;
+  border-radius: 5px 5px 5px 5px;
+  padding: 3px 6px 3px 6px;
+  font-weight: bold;
+}
+
 ul.downloads {
   list-style:none;
   height:30px;
