@@ -11,7 +11,7 @@ publications:
   - title: "Look Before you Speak: Visually Contextualized Utterances"
     url: https://arxiv.org/abs/2012.05710
     authors: Paul Hongsuck Seo, Arsha Nagrani, Cordelia Schmid
-    conf: arXiv
+    conf: CVPR 2021
   - title: Reinforcing an Image Caption Generator by Human Feedback
     url: https://arxiv.org/pdf/1911.09753.pdf
     authors: Paul Hongsuck Seo, Piyush Sharma, Tomer Levinboim, Bohyung Han, Radu Soricut
