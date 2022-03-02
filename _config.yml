@@ -11,7 +11,7 @@ publications:
   - title: "End-to-end Generative Pretraining for Multimodal Video Captioning"
     url: https://arxiv.org/abs/2201.08264
     authors: Paul Hongsuck Seo, Arsha Nagrani, Anurag Arnab, Cordelia Schmid
-    conf: arXiv preprint
+    conf: CVPR 2022
   - title: "Look Before you Speak: Visually Contextualized Utterances"
     url: https://arxiv.org/abs/2012.05710
     authors: Paul Hongsuck Seo, Arsha Nagrani, Cordelia Schmid
