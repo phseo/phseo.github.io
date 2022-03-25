@@ -37,6 +37,7 @@ I am a research scientist at Google working with [Cordelia Schmid](https://thoth
 * * *
 # Academic Services
 * **Regular Program Committee Member (Reviewer)** in CVPR, NeurIPS, ICLR, ICML, ICCV and ACL.
+* **Workshop Organizer**, [The 1st Workshop on Customized Chat Grounding Persona and Knowledge](https://sites.google.com/corp/view/persona-knowledge-workshop/home?authuser=0){:target="_blank"}, COLING 2022
 * **Technical Committee Member**, Conceptual Captions Challenge, CVPR 2019
 
 * * *
