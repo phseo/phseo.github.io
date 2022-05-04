@@ -11,7 +11,7 @@ publications:
   - title: "Learning Audio-Video Modalities from Image Captions"
     url: https://arxiv.org/abs/2204.00679
     authors: Arsha Nagrani, Paul Hongsuck Seo, Bryan Seybold, Anja Hauth, Santiago Manen, Chen Sun, Cordelia Schmid
-    conf: arXiv preprint
+    conf: arXiv preprint 2022
   - title: "End-to-end Generative Pretraining for Multimodal Video Captioning"
     url: https://arxiv.org/abs/2201.08264
     authors: Paul Hongsuck Seo, Arsha Nagrani, Anurag Arnab, Cordelia Schmid
