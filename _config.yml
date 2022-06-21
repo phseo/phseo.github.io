@@ -10,7 +10,7 @@ google_scholar: https://scholar.google.com/citations?user=Tp7U8_UAAAAJ&hl=en
 publications:
   - title: "AVATAR: Unconstrained Audiovisual Speech Recognition"
     url: https://arxiv.org/abs/2206.07684
-    authors: "Valentin Gabeur*, Paul Hongsuck Seo*, Arsha Nagrani*, Chen Sun, Karteek Alahari, Cordelia Schmid (* equal contribution)"
+    authors: "*Valentin Gabeur, *Paul Hongsuck Seo, *Arsha Nagrani, Chen Sun, Karteek Alahari, Cordelia Schmid (* equal contribution)"
     conf: Interspeech 2022
   - title: "Learning Audio-Video Modalities from Image Captions"
     url: https://arxiv.org/abs/2204.00679
