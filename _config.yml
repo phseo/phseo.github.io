@@ -16,6 +16,7 @@ publications:
     url: https://arxiv.org/abs/2206.07684
     authors: "*Valentin Gabeur, *Paul Hongsuck Seo, *Arsha Nagrani, Chen Sun, Karteek Alahari, Cordelia Schmid (* equal contribution)"
     conf: Interspeech 2022
+    oral: true
   - title: "End-to-end Generative Pretraining for Multimodal Video Captioning"
     url: https://arxiv.org/abs/2201.08264
     authors: Paul Hongsuck Seo, Arsha Nagrani, Anurag Arnab, Cordelia Schmid
