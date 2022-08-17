@@ -25,7 +25,7 @@ I am a research scientist at Google working with [Cordelia Schmid](https://thoth
 
 * * *
 # Honors and Awards
-* **Best Ph.D. Award (Engineering)**, POSTECH (2020)
+* **Best Ph.D. Dissertation Award (Engineering)**, POSTECH (2020)
 * **CVPR 2019 Doctoral Consortium** (2019)
 * **Naver Ph.D. Fellowship** (2017)
 * **Best Team Project Award**, SUNY Korea Hot Topics in Computer Science Workshop (2015)
