@@ -19,8 +19,8 @@ I am a research scientist at Google working with [Cordelia Schmid](https://thoth
 * **Research Scientist**, Google, France (Mar. 2020 - )
 * **Research Intern**, Facebook, USA (Sep. 2019 - Jan. 2020)
 * **Research Intern**, Google, USA (May. 2019 - Aug. 2019)
-* **Tech Intern**, Google, USA (Jun. 2017 - Dec. 2017)
-* **Lab Associate**, Disney Research Pittsburgh, USA (Feb. 2017 - May. 2017)
+* **Research Intern**, Google, USA (Jun. 2017 - Dec. 2017)
+* **Research Intern**, Disney Research Pittsburgh, USA (Feb. 2017 - May. 2017)
 * **Lecturer**, Dept. of Information Technology, [Mongolia International University](http://www.miu.edu.mn/){:target="_blank"} (Aug. 2013 - Jan. 2015)
 
 * * *
