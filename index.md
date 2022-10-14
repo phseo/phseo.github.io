@@ -25,6 +25,7 @@ I am a research scientist at Google working with [Cordelia Schmid](https://thoth
 
 * * *
 # Honors and Awards
+* **1 Place in Ego4D AV Transcription Challenge**, (2022)
 * **Best Ph.D. Dissertation Award (Engineering)**, POSTECH (2020)
 * **CVPR 2019 Doctoral Consortium** (2019)
 * **Naver Ph.D. Fellowship** (2017)
