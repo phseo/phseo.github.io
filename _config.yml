@@ -8,6 +8,22 @@ theme: jekyll-theme-minimal
 google_scholar: https://scholar.google.com/citations?user=Tp7U8_UAAAAJ&hl=en
 
 publications:
+  - title: "AVFormer: Injecting Vision into Frozen Speech Models for Zero-Shot AV-ASR"
+    url: #
+    authors: Paul Hongsuck Seo, Arsha Nagrani, Cordelia Schmid
+    conf: CVPR 2023
+  - title: "IFSeg: Image-free Semantic Segmentation via Vision-Language Model"
+    url: #
+    authors: Sukmin Yun, Seong Hyeon Park, Paul Hongsuck Seo, Jinwoo Shin
+    conf: CVPR 2023
+  - title: "Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning"
+    url: #
+    authors: Antoine Yang, Arsha Nagrani, Paul Hongsuck Seo, Antoine Miech, Jordi Pont-Tuset, Ivan Laptev, Josef Sivic, Cordelia Schmid
+    conf: CVPR 2023
+  - title: "Zero-shot Referring Image Segmentation with Global-Local Context Features"
+    url: #
+    authors: Seonghoon Yu, Paul Hongsuck Seo, Jeany Son
+    conf: CVPR 2023
   - title: "Learning Audio-Video Modalities from Image Captions"
     url: https://arxiv.org/abs/2204.00679
     authors: Arsha Nagrani, Paul Hongsuck Seo, Bryan Seybold, Anja Hauth, Santiago Manen, Chen Sun, Cordelia Schmid
