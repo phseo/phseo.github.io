@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a research scientist at Google working with [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/){:target="_blank"} on research problems involving both vision and language. I completed Ph.D. in 2020 under the supervision of [Bohyung Han](https://cv.snu.ac.kr/index.php/~bhhan/){:target="_blank"} and [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/){:target="_blank"} at [POSTECH](http://www.postech.ac.kr/eng/){:target="_blank"}. Before that I was advised by [Gary Geunbae Lee](http://nlp.postech.ac.kr/~gblee/){:target="_blank"} at the same school for M.S. During my Ph.D., I interned at Disney Research, Google and Facebook working with [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/){:target="_blank"}, [Jack Sim](https://scholar.google.com/citations?hl=ko&user=UhnT9e4AAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}, [Radu Soricut](https://scholar.google.com/citations?hl=en&user=NAzD9mgAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"} and [Peter Vajda](https://sites.google.com/site/vajdap){:target="_blank"}. My research interests primarily lies in the areas of computer vision and natural language processing, especially in the intersections of these areas.
+**I am joining UNIST as an assistant professor starting from July, 2023 and currently seeking talented and motivated students and interns to join the group.** I was a research scientist at Google working with [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/){:target="_blank"} on research problems involving both vision and language. I completed Ph.D. in 2020 under the supervision of [Bohyung Han](https://cv.snu.ac.kr/index.php/~bhhan/){:target="_blank"} and [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/){:target="_blank"} at [POSTECH](http://www.postech.ac.kr/eng/){:target="_blank"}. Before that I was advised by [Gary Geunbae Lee](http://nlp.postech.ac.kr/~gblee/){:target="_blank"} at the same school for M.S. During my Ph.D., I interned at Disney Research, Google and Facebook working with [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/){:target="_blank"}, [Jack Sim](https://scholar.google.com/citations?hl=ko&user=UhnT9e4AAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}, [Radu Soricut](https://scholar.google.com/citations?hl=en&user=NAzD9mgAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"} and [Peter Vajda](https://sites.google.com/site/vajdap){:target="_blank"}. My research interests primarily lies in the areas of computer vision and natural language processing, especially in the intersections of these areas.
 
 * * *
 # Education
@@ -16,7 +16,8 @@ I am a research scientist at Google working with [Cordelia Schmid](https://thoth
 
 * * *
 # Work Experiences
-* **Research Scientist**, Google, France (Mar. 2020 - )
+* **Assistant Professor**, UNIST, South Korea (Jul. 2023 - )
+* **Research Scientist**, Google, France (Mar. 2020 - Jun. 2023)
 * **Research Intern**, Facebook, USA (Sep. 2019 - Jan. 2020)
 * **Research Intern**, Google, USA (May. 2019 - Aug. 2019)
 * **Research Intern**, Google, USA (Jun. 2017 - Dec. 2017)
