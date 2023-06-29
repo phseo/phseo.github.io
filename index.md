@@ -16,7 +16,7 @@ layout: default
 
 * * *
 # Work Experiences
-* **Assistant Professor**, UNIST, South Korea (Jul. 2023 - )
+<!---* **Assistant Professor**, UNIST, South Korea (Jul. 2023 - )--->
 * **Research Scientist**, Google, France (Mar. 2020 - Jun. 2023)
 * **Research Intern**, Facebook, USA (Sep. 2019 - Jan. 2020)
 * **Research Intern**, Google, USA (May. 2019 - Aug. 2019)
