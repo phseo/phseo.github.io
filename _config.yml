@@ -10,6 +10,15 @@ theme: jekyll-theme-minimal
 google_scholar: https://scholar.google.com/citations?user=Tp7U8_UAAAAJ&hl=en
 
 publications:
+  - title: "CAT-Seg: Cost Aggregation for Open-vocabulary Semantic Segmentation"
+    authors: \*Seokju Cho, \*Heeseong Shin, Sunghwan Hong, Anurag Arnab, +Paul Hongsuck Seo, +Seungryong Kim
+    conf: CVPR 2024
+    url: https://arxiv.org/abs/2303.11797
+    highlight: 1
+  - title: "Learning Correlation Structures for Vision Transformers"
+    url: #
+    authors: Manjin Kim, +Paul Hongsuck Seo, Cordelia Schmid, +Minsu Cho
+    conf: CVPR 2024
   - title: "AVFormer: Injecting Vision into Frozen Speech Models for Zero-Shot AV-ASR"
     url: #
     authors: Paul Hongsuck Seo, Arsha Nagrani, Cordelia Schmid
