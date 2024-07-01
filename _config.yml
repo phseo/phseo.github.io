@@ -10,6 +10,10 @@ theme: jekyll-theme-minimal
 google_scholar: https://scholar.google.com/citations?user=Tp7U8_UAAAAJ&hl=en
 
 publications:
+  - title: "Pseudo-RIS: Distinctive Pseudo-supervision Generation for Referring Image Segmentation"
+    authors: "Seonghoon Yu, +Paul Hongsuck Seo, +Jeany Son (+ corresponding authors)"
+    url: #
+    conf: ECCV 2024
   - title: "CAT-Seg: Cost Aggregation for Open-vocabulary Semantic Segmentation"
     authors: "*Seokju Cho, *Heeseong Shin, Sunghwan Hong, Anurag Arnab, +Paul Hongsuck Seo, +Seungryong Kim (+ corresponding authors)"
     conf: CVPR 2024
