@@ -53,6 +53,8 @@ I am an assistant professor in the [Department of Computer Science and Engineeri
     <div class="oral">oral</div>
     {% elsif pub.highlight%}
     <div class="oral">highlight</div>
+    {% elsif pub.spotlight%}
+    <div class="oral">spotlight</div>
     {% endif %}
     <br />
     {% if pub.authors contains "*Paul Hongsuck Seo" %}
