@@ -10,7 +10,7 @@ theme: jekyll-theme-minimal
 google_scholar: https://scholar.google.com/citations?user=Tp7U8_UAAAAJ&hl=en
 
 publications:
-  - title: "TrackIME: Enhanced Video Point Tracking via Instance Motion Estimation spotlight"
+  - title: "TrackIME: Enhanced Video Point Tracking via Instance Motion Estimation"
     url: #
     authors: Seong Hyeon Park, Huiwon Jang, Byungwoo Jeon, Sukmin Yun, Paul Hongsuck Seo, Jinwoo Shin
     conf: NeurIPS 2024
