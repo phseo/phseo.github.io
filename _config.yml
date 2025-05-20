@@ -10,6 +10,22 @@ theme: jekyll-theme-minimal
 google_scholar: https://scholar.google.com/citations?user=Tp7U8_UAAAAJ&hl=en
 
 publications:
+  - title: "Cross-Modal Watermarking for Authentic Audio Recovery and Tamper Localization in Synthesized Audiovisual Forgeries"
+    url: #
+    authors: "Minyoung Kim, Sehwan Park, Sungmin Cha, Paul Hongsuck Seo"
+    conf: Interspeech 2025
+  - title: "DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization"
+    url: #
+    authors: "*Geonyoung Lee, *Geonhee Han, Paul Hongsuck Seo (* equal contribution)"
+    conf: Interspeech 2025
+  - title: "Bridging Audio and Vision: Zero-Shot Audiovisual Segmentation by Connecting Pretrained Models"
+    url: #
+    authors: "Seung-jae Lee, Paul Hongsuck "
+    conf: Interspeech 2025
+  - title: "ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision"
+    url: #
+    authors: "Dosung Lee, Wonjun Oh, Boyoung Kim, Minyoung Kim, +Joonsuk Park, +Paul Hongsuck Seo (+ corresponding authors)"
+    conf: ACL 2025
   - title: "Random Conditioning for Diffusion Model Compression with Distillation"
     url: #
     authors: "*Dohyun Kim, *Sehwan Park, Geonhee Han, Seung Wook Kim, Paul Hongsuck Seo (* equal contribution)"
