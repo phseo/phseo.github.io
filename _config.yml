@@ -1,7 +1,7 @@
 title: Paul Hongsuck Seo
-description: Assistant Professor @ Korea University
+description: Associate Professor @ Korea University
 position: |
-  Assistant Professor, 
+  Associate Professor, 
   Korea University
 email: phseo
 logo: /assets/img/profile.png
@@ -10,6 +10,18 @@ theme: jekyll-theme-minimal
 google_scholar: https://scholar.google.com/citations?user=Tp7U8_UAAAAJ&hl=en
 
 publications:
+  - title: "Seg4Diff: Unveiling Open-Vocabulary Segmentation in Text-to-Image Diffusion Transformers"
+    url: #
+    authors: "Chaehyun Kim, Heeseong Shin, Heeji Yoon, Eunbeen Hong, Anurag Arnab, Paul Hongsuck Seo, +Sunghwan Hong, +Seungryong Kim (+ corresponding authors)"
+    conf: NeurIPS 2025
+  - title: "ReTAG: Retrieval-Enhanced, Topic-Augmented Graph-Based Global Sensemaking"
+    url: #
+    authors: "Boyoung Kim, Dosung Lee, Sumin An, Jinseong Jeong, Paul Hongsuck Seo"
+    conf: EMNLP 2025 (Findings)
+  - title: "DialNav: Multi-turn Dialog Navigation with a Remote Guide"
+    url: #
+    authors: "Leekyeung Han, Hyunji Min, Gyeom Hwangbo, Jonghyun Choi, Paul Hongsuck Seo"
+    conf: ICCV 2025
   - title: "Cross-Modal Watermarking for Authentic Audio Recovery and Tamper Localization in Synthesized Audiovisual Forgeries"
     url: #
     authors: "Minyoung Kim, Sehwan Park, Sungmin Cha, Paul Hongsuck Seo"
