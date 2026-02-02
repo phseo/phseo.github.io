@@ -16,6 +16,8 @@ I am an assistant professor in the [Department of Computer Science and Engineeri
 
 * * *
 # Work Experiences
+* **Vice Dean for Academic Affairs**, Dept. of CSE, Korea University, South Korea (Sep. 2025 - )
+* **Associate Professor**, Korea University, South Korea (Sep. 2025 - )
 * **Assistant Professor**, Korea University, South Korea (Sep. 2023 - )
 * **Research Scientist**, Google, France (Mar. 2020 - Jun. 2023)
 * **Research Intern**, Facebook, USA (Sep. 2019 - Jan. 2020)
@@ -40,6 +42,7 @@ I am an assistant professor in the [Department of Computer Science and Engineeri
 # Academic Services
 * **Regular Program Committee Member (Area Chair)**, in NeurIPS, CVPR, ICML, NeurIPS, ICCV.
 * **Regular Program Committee Member (Reviewer)** in CVPR, NeurIPS, ICLR, ICML, ICCV and ACL.
+* **KCCV 2026 Organizing Committee Member** Finance Chair.
 * **KCCV 2025 Organizing Committee Member** Finance Chair.
 * **KCCV 2024 Organizing Committee Member** Finance Chair.
 * **Workshop Organizer**, [The 1st Workshop on Customized Chat Grounding Persona and Knowledge](https://sites.google.com/corp/view/persona-knowledge-workshop/home?authuser=0){:target="_blank"}, COLING 2022
